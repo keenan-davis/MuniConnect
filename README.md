@@ -38,9 +38,6 @@ Future updates will add **Local Events, Announcements, and Service Request Statu
 - **File Uploads:** ASP.NET Core `IFormFile`, stored in `wwwroot/uploads`  
 
 ---
-## 🎥 Demo Video
-Watch the full demo on YouTube:  
-👉[Municipality of Port Elizabeth Services Demo](https://www.youtube.com/watch?v=sXrI8tgLQQM)
 
 ## 📂 Project Structure
 ```yaml
