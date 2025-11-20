@@ -1,0 +1,76 @@
+﻿@model MuniConnect.Models.Issue
+
+@{
+    ViewData["Title"] = "Report a New Issue";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">@ViewData["Title"]</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" enctype="multipart/form-data" method="post" id="issueForm">
+                <div class="mb-3">
+                    <label asp-for="Location" class="form-label"></label>
+                    <input asp-for="Location" class="form-control" id="Location" />
+                    <span asp-validation-for="Location" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Category" class="form-label"></label>
+                    <select asp-for="Category" class="form-control" id="Category">
+                        <option value="">-- Select Category --</option>
+                        <option>Roads</option>
+                        <option>Water Issue</option>
+                        <option>Electricity Issue</option>
+                        <option>Waste Management</option>
+                        <option>Other</option>
+                    </select>
+                    <span asp-validation-for="Category" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label"></label>
+                    <textarea asp-for="Description" class="form-control" rows="4" id="Description"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label>Attachment </label>
+                    <input type="file" name="Attachment" class="form-control" />
+                </div>
+              
+                <div class="mb-3">
+                    <label asp-for="UserFeedback" class="form-label">Feedback </label>
+                    <textarea asp-for="UserFeedback" class="form-control" rows="2" placeholder="Share your thoughts"></textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="SatisfactionRating" class="form-label">Satisfaction Rating</label>
+                    <select asp-for="SatisfactionRating" class="form-control">
+                        <option value="">-- Select Rating --</option>
+                        <option value="1">1 - Very Poor</option>
+                        <option value="2">2 - Poor</option>
+                        <option value="3">3 - Fair</option>
+                        <option value="4">4 - Good</option>
+                        <option value="5">5 - Excellent</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary btn-main">Submit Issue</button>
+                <a asp-action="Index" class="btn btn-secondary btn-child">Back to Issues</a>
+            </form>
+        </div>
+    </div>
+</div>
+<style>
+    .btn-main{
+        font-family: 'Montserrat', sans-serif;
+    }
+    .btn-child{
+                font-family: 'Montserrat', sans-serif;
+    }
+</style>
+

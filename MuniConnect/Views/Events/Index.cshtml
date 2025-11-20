@@ -1,0 +1,211 @@
+﻿@model IEnumerable<MuniConnect.Models.Event>
+
+@{
+    ViewData["Title"] = "Local Events and Announcements";
+    var categories = ViewBag.Categories as IEnumerable<string>;
+    var recommendations = ViewBag.Recommendations as IEnumerable<MuniConnect.Models.Event>;
+    var lastViewed = ViewBag.LastViewed as IEnumerable<MuniConnect.Models.Event>;
+    var announcements = ViewBag.Announcements as List<MuniConnect.Models.Announcement>;
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3 text-center">Local Events and Announcements</h2>
+
+    <!-- Search & Filter Section -->
+    <div class="card shadow-sm mb-4 p-3">
+        <form id="searchForm" class="row g-3 align-items-end">
+            <div class="col-md-4">
+                <label for="category" class="form-label">Category</label>
+                <select id="category" name="category" class="form-select">
+                    <option value="">All Categories</option>
+                    @foreach (var cat in categories)
+                    {
+                        <option value="@cat">@cat</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="fromDate" class="form-label">From Date</label>
+                <input type="date" id="fromDate" name="from" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <label for="toDate" class="form-label">To Date</label>
+                <input type="date" id="toDate" name="to" class="form-control" />
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary w-100">Search</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Main Events and Recently Viewed -->
+    <div class="row">
+        <div class="col-lg-8">
+            <div id="eventsList" class="row">
+                @foreach (var ev in Model)
+                {
+                    <div class="col-md-6 mb-4">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-body">
+                                <h5 class="card-title">@ev.Title</h5>
+                                <p class="card-text text-muted">@ev.StartDate.ToString("yyyy-MM-dd") - @ev.Location</p>
+                                <p>@ev.Description</p>
+                                <span class="badge bg-info text-dark">@ev.Category</span>
+
+                                <hr />
+                                <!--  Like & Rating -->
+                                <div class="feedback-section">
+                                    <button class="btn btn-outline-primary likeBtn" data-id="@ev.Id">Like</button>
+                                    <span id="likeCount-@ev.Id">@ev.Likes </span>
+
+                                    <select class="form-select form-select-sm w-auto d-inline ms-2 ratingSelect" data-id="@ev.Id">
+                                        <option value="">Rate</option>
+                                        @for (int i = 1; i <= 5; i++)
+                                        {
+                                            <option value="@i">@i</option>
+                                        }
+                                    </select>
+                                    <small id="ratingInfo-@ev.Id" class="ms-1 text-muted">
+                                        @ev.AverageRating.ToString("0.0")
+                                    </small>
+                                </div>
+                            </div>
+                            <div class="card-footer bg-transparent border-top-0">
+                                <a asp-action="Details" asp-route-id="@ev.Id" class="btn btn-outline-primary w-100">View Details</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <!-- Announcements Section -->
+            <hr class="my-5" />
+            <h4 class="text-center mb-3">Latest Announcements</h4>
+            <p class="text-center text-muted">Keep up to date with municipal news</p>
+
+            <div id="announcementsList" class="row">
+                @if (announcements != null && announcements.Any())
+                {
+                    foreach (var ann in announcements)
+                    {
+                        <div class="col-md-6 mb-4">
+                            <div class="card h-100 shadow-sm">
+                                <div class="card-body">
+                                    <h5 class="card-title">@ann.Title</h5> 
+                                    <p class="card-text text-muted">@ann.PublishDate.ToString("yyyy-MM-dd")</p>
+                                    <p>@ann.Description</p>
+                                    <span class="badge bg-secondary">@ann.Category</span>
+                                </div>
+                                <div class="card-footer bg-transparent border-top-0">
+                                    <small class="text-muted">
+                                        @if (!string.IsNullOrEmpty(ann.Location))
+                                        {
+                                            <span><strong>Location:</strong> @ann.Location</span>
+                                        }
+                                        else
+                                        {
+                                            <span>Municipal Notice</span>
+                                        }
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <p class="text-center text-muted">No announcements available.</p>
+                }
+            </div>
+
+            <!-- Recommended Events Section -->
+            <hr class="my-5" />
+            <h4 class="text-center mb-3"> Recommended Events for You</h4>
+            <p class="text-center text-muted">Based on your recent interests and viewed categories</p>
+            <div id="recommendations" class="row justify-content-center">
+                @if (recommendations != null && recommendations.Any())
+                {
+                    foreach (var rec in recommendations)
+                    {
+                        <div class="col-md-6 mb-4">
+                            <div class="card shadow-sm h-100 border-success">
+                                <div class="card-body">
+                                    <h6 class="card-title">@rec.Title</h6>
+                                    <p class="text-muted">@rec.StartDate.ToString("yyyy-MM-dd")</p>
+                                    <span class="badge bg-success">@rec.Category</span>
+                                </div>
+                                <div class="card-footer bg-transparent border-0">
+                                    <a asp-action="Details" asp-route-id="@rec.Id" class="btn btn-outline-success w-100">View</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <p class="text-center text-muted">No recommendations found yet. Try searching for events!</p>
+                }
+            </div>
+        </div>
+
+        <!-- Recently Viewed Container -->
+        <div class="col-lg-4">
+            <div class="card shadow-sm mb-4">
+                <div class="card-header bg-dark text-white">
+                    <h6 class="mb-0"> Recently Viewed</h6>
+                </div>
+                <div class="card-body" id="lastViewedList">
+                    @if (lastViewed != null && lastViewed.Any())
+                    {
+                        <ul class="list-group list-group-flush">
+                            @foreach (var ev in lastViewed)
+                            {
+                                <li class="list-group-item">
+                                    <strong>@ev.Title</strong><br />
+                                    <small class="text-muted">@ev.StartDate.ToString("yyyy-MM-dd")</small><br />
+                                    <a asp-action="Details" asp-route-id="@ev.Id" class="btn btn-sm btn-outline-secondary mt-2">Revisit</a>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p class="text-muted text-center">No events viewed yet.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/events.js"></script>
+    <script>
+        //  Like +  Rating handlers
+        document.querySelectorAll(".likeBtn").forEach(btn => {
+            btn.addEventListener("click", () => {
+                const id = btn.dataset.id;
+                fetch(`/Events/LikeEvent/${id}`, { method: "POST" })
+                    .then(r => r.json())
+                    .then(d => {
+                        document.getElementById(`likeCount-${id}`).innerText = `${d.likes} Likes`;
+                    });
+            });
+        });
+
+        document.querySelectorAll(".ratingSelect").forEach(select => {
+            select.addEventListener("change", () => {
+                const id = select.dataset.id;
+                const rating = select.value;
+                if (!rating) return;
+
+                fetch(`/Events/RateEvent/${id}?rating=${rating}`, { method: "POST" })
+                    .then(r => r.json())
+                    .then(d => {
+                        document.getElementById(`ratingInfo-${id}`).innerText =
+                            `${d.average.toFixed(1)} `;
+                    });
+            });
+        });
+    </script>
+}

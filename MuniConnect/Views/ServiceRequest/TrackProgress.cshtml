@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MuniConnect.Models.ServiceRequest>
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Service Request Progress</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning text-center">
+            <i class="bi bi-info-circle"></i> No related requests found.
+        </div>
+    }
+    else
+    {
+        foreach (var r in Model)
+        {
+            <div class="card mb-3 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@r.Title</h5>
+
+                    <span class="badge status-badge @r.Status.Replace(" ", "")">@r.Status</span>
+
+                    <p class="mt-2">@r.Description</p>
+
+                    <small class="text-muted"><i class="bi bi-calendar"></i> @r.DateSubmitted.ToShortDateString()</small>
+                </div>
+            </div>
+        }
+    }
+</div>
+
+<style>
+    .status-badge.Pending {
+        background-color: #f7c32e !important;
+    }
+
+    .status-badge.InProgress {
+        background-color: #51c39d !important;
+    }
+
+    .status-badge.Completed {
+        background-color: #1b7a32 !important;
+    }
+</style>
+<script>
+    document.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('mouseenter', () => card.classList.add('shadow-lg'));
+        card.addEventListener('mouseleave', () => card.classList.remove('shadow-lg'));
+    });
+</script>

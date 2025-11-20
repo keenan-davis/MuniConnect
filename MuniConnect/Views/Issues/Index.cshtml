@@ -1,0 +1,121 @@
+﻿@model IEnumerable<MuniConnect.Models.Issue>
+
+@{
+    ViewData["Title"] = "Reported Issues";
+    int totalTarget = 5; 
+    int reportedCount = Model.Count();
+    int percent = (int)((reportedCount / (double)totalTarget) * 100);
+}
+
+
+<h2 class="text-center mb-4">Reported Issues</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
+<div class="card shadow-lg border-0 rounded-3 mb-4">
+    <div class="card-body">
+        <h5 class="card-title">Reporting Progress</h5>
+        <div class="progress" style="height: 30px;">
+            <div id="issuesProgressBar" class="progress-bar progress-bar-striped progress-bar-animated"
+                 role="progressbar" style="width:@percent%" aria-valuenow="@reportedCount"
+                 aria-valuemin="0" aria-valuemax="@totalTarget">
+                @reportedCount / @totalTarget
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Issues Table Card -->
+<div class="card shadow-lg border-0 rounded-3">
+    <div class="card-body">
+        <table class="table table-striped table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Location</th>
+                    <th>Category</th>
+                    <th>Description</th>
+                    <th>Date Reported</th>
+                    <th>Attachment</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var issue in Model)
+                {
+                    <tr>
+                        <td>@issue.Id</td>
+                        <td>@issue.Location</td>
+                        <td>@issue.Category</td>
+                        <td>@issue.Description</td>
+                        <td>@issue.DateReported.ToString("dd/MM/yyyy HH:mm")</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(issue.FilePath))
+                            {
+                                <a href="@issue.FilePath" target="_blank" class="btn btn-sm btn-outline-primary">View File</a>
+                            }
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@issue.Id" class="btn btn-sm btn-info">View</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="text-end mb-3">
+    <a asp-action="Create" class="btn btn-primary btn-lg">
+        <i class="bi bi-plus-circle"></i> Report New Issue
+    </a>
+</div>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+@section Scripts {
+    <script>
+        const progressBar = document.getElementById('issuesProgressBar');
+        const value = parseInt(progressBar.getAttribute('aria-valuenow'));
+
+        if (value === 1) progressBar.classList.add('bg-danger');
+        else if (value === 2) progressBar.classList.add('bg-warning');
+        else if (value === 3) progressBar.classList.add('bg-yellow');
+        else if (value === 4) progressBar.classList.add('bg-success-light');
+        else if (value >= 5) progressBar.classList.add('bg-success');
+    </script>
+
+    <style>
+       
+        .bg-yellow {
+            background-color: #FFC107 !important;
+        }
+
+        .bg-success-light {
+            background-color: #8BC34A !important;
+        }
+
+        .table-hover tbody tr:hover {
+            background-color: #f0f0f0;
+        }
+
+        .btn-info {
+            background-color: #0dcaf0;
+            border-color: #0dcaf0;
+            color: #fff;
+        }
+
+            .btn-info:hover {
+                background-color: #0bb7d9;
+                border-color: #0bb7d9;
+            }
+            .btn-lg {
+            font-family: 'Montserrat', sans-serif;
+            }
+    </style>
+}

@@ -1,0 +1,97 @@
+﻿@model MuniConnect.Models.Issue
+
+@{
+    ViewData["Title"] = "Issue Details";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">@ViewData["Title"] - ID: @Model.Id</h3>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Location</dt>
+                <dd class="col-sm-9">@Model.Location</dd>
+
+                <dt class="col-sm-3">Category</dt>
+                <dd class="col-sm-9">@Model.Category</dd>
+
+                <dt class="col-sm-3">Description</dt>
+                <dd class="col-sm-9">@Model.Description</dd>
+
+                <dt class="col-sm-3">Date Reported</dt>
+                <dd class="col-sm-9">@Model.DateReported.ToString("f")</dd>
+
+                <dt class="col-sm-3">Attachment</dt>
+                <dd class="col-sm-9">
+                    @if (!string.IsNullOrEmpty(Model.FilePath))
+                    {
+                        <a href="@Model.FilePath" target="_blank" class="btn btn-sm btn-outline-primary btn-main">View Attachment</a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No attachment</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-3">User Feedback</dt>
+                <dd class="col-sm-9">
+                    @if (!string.IsNullOrEmpty(Model.UserFeedback))
+                    {
+                        <p>@Model.UserFeedback</p>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No feedback provided</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-3">Satisfaction Rating</dt>
+                <dd class="col-sm-9">
+                    @if (Model.SatisfactionRating.HasValue)
+                    {
+                        <div class="progress mb-2" style="height: 25px;">
+                            @{
+                                var rating = Model.SatisfactionRating.Value;
+                                string barClass = rating switch
+                                {
+                                    1 => "bg-danger",
+                                    2 => "bg-warning",
+                                    3 => "bg-warning",
+                                    4 => "bg-success",
+                                    5 => "bg-success",
+                                    _ => "bg-secondary"
+                                };
+                                var widthPercent = rating * 20; // 1–5 rating mapped to 20–100%
+                            }
+                            <div class="progress-bar @barClass" role="progressbar" style="width:@widthPercent%" aria-valuenow="@rating" aria-valuemin="0" aria-valuemax="5">
+                                @rating / 5
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No rating provided</span>
+                    }
+                </dd>
+            </dl>
+
+            <a asp-action="Index" class="btn btn-secondary mt-3">Back to Issues</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .btn-main {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .mt-3 {
+        font-family: 'Montserrat', sans-serif;
+    }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>

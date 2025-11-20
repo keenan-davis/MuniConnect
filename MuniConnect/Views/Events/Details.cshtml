@@ -1,0 +1,115 @@
+﻿@model MuniConnect.Models.Event
+
+@{
+    ViewData["Title"] = Model.Title;
+    var lastViewed = ViewBag.LastViewed as IEnumerable<MuniConnect.Models.Event>;
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <!-- Main Event Details -->
+        <div class="col-lg-9">
+            <div class="card shadow-sm mb-4">
+                <div class="card-body">
+                    <h2 class="card-title">@Model.Title</h2>
+                    <p class="text-muted">@Model.StartDate.ToString("yyyy-MM-dd") - @Model.Location</p>
+                    <span class="badge bg-info text-dark">@Model.Category</span>
+                    <hr />
+                    <p>@Model.Description</p>
+                    <p><strong>End Date:</strong> @Model.EndDate.ToString("yyyy-MM-dd")</p>
+
+                    <!-- User Engagement -->
+                    <hr />
+                    <div id="feedback-section" class="mt-4">
+                        <h5>Engage with this Event</h5>
+
+                        <!-- Like Button -->
+                        <button id="likeBtn" class="btn btn-outline-primary">Like</button>
+                        <span id="likeCount" class="ms-2">@Model.Likes </span>
+
+                        <!-- Rating Dropdown -->
+                        <div class="mt-3">
+                            <label class="form-label me-2">Rate this event:</label>
+                            <select id="ratingSelect" class="form-select w-auto d-inline">
+                                <option value="">--Select--</option>
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    <option value="@i">@i Star@(i > 1 ? "s" : "")</option>
+                                }
+                            </select>
+                            <span id="ratingInfo" class="ms-2">
+                                Average: @Model.AverageRating.ToString("0.0")  (@Model.RatingCount ratings)
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <input type="hidden" id="currentEventId" value="@Model.Id" />
+
+        <!-- Recently Viewed Container -->
+        <div class="col-lg-3">
+            <div class="card shadow-sm">
+                <div class="card-header bg-dark text-white">
+                    <h6 class="mb-0">Recently Viewed</h6>
+                </div>
+                <div class="card-body" id="lastViewedList">
+                    @if (lastViewed != null && lastViewed.Any())
+                    {
+                        <ul class="list-group list-group-flush">
+                            @foreach (var ev in lastViewed)
+                            {
+                                <li class="list-group-item">
+                                    <strong>@ev.Title</strong><br />
+                                    <small class="text-muted">@ev.StartDate.ToString("yyyy-MM-dd")</small><br />
+                                    <a asp-action="Details" asp-route-id="@ev.Id" class="btn btn-sm btn-outline-secondary mt-2">Revisit</a>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p class="text-muted text-center">No events viewed yet.</p>
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/events.js"></script>
+
+    <script>
+        const eventId = document.getElementById("currentEventId").value;
+
+        // Like Button
+        document.getElementById("likeBtn").addEventListener("click", function () {
+            fetch(`/Events/LikeEvent/${eventId}`, { method: "POST" })
+                .then(r => r.json())
+                .then(d => {
+                    document.getElementById("likeCount").innerText = `${d.likes} Likes`;
+                    this.classList.toggle("btn-primary", d.liked);
+                    this.classList.toggle("btn-outline-primary", !d.liked);
+                })
+                .catch(err => console.error("Error liking event:", err));
+        });
+
+        // Rating Selection
+        document.getElementById("ratingSelect").addEventListener("change", function () {
+            const rating = this.value;
+            if (!rating) return;
+
+            fetch(`/Events/RateEvent/${eventId}?rating=${rating}`, { method: "POST" })
+                .then(r => r.json())
+                .then(d => {
+                    document.getElementById("ratingInfo").innerText =
+                        `Average: ${d.average.toFixed(1)}  (${d.count} ratings)`;
+                })
+                .catch(err => console.error("Error rating event:", err));
+        });
+    </script>
+}

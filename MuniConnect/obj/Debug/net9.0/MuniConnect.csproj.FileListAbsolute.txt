@@ -1,0 +1,396 @@
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.runtime.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.exe
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.deps.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.runtimeconfig.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.dll
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.pdb
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.sourcelink.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\bundle\MuniConnect.styles.css
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\projectbundle\MuniConnect.bundle.scp.css
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6dm84sujk4-b9sayid5wm.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\nerqpdnz7c-61n19gt1b8.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\83vbcn3imr-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cntve3xxfm-bqjiyaj88i.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\iipes8skur-c2jlpeoesf.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\75owwzqns0-erw9l3u2r3.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\1y3b64nzbt-aexeepp0ev.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\wg8n8u0ad0-d7shbmvgxk.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ailn01vh5y-ausgxo2sd3.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\pfr4cp3sx5-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6fdtjpllkd-cosvhxvwiu.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\oie8lsv7gn-ub07r2b239.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\b0rsbv7sdg-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\xmt1gmosry-b7pk76d08c.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6xtnt0uf0t-fsbi9cje9m.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\lzxtv8rxc3-rzd6atqjts.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\kupedo1bl6-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\eohn35k4gu-dxx9fxp4il.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\d30anbca9s-jd9uben2k1.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ipza59pc0h-khv3u5hwcm.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\7oz6z9vvek-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\d2ostd9jjx-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\8g4mjt7kg2-c2oey78nd0.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ig9bou2w8l-tdbxkamptv.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\rlkeso5avy-j5mq2jizvt.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ypw4yp5wpj-06098lyss8.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\b7pmcxr984-nvvlpmu67g.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\9galfo8onq-s35ty4nyc5.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\rly9hmeqjn-pj5nd1wqec.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\gdbfw65ume-46ein0sx1k.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\icph5jfxx3-v0zj4ognzu.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\jsajwp8t68-37tfw0ft22.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\fyq9sl1lt9-hrwsygsryq.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\geottfupgn-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\28sqpv12mo-ft3s53vfgj.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\48ueemeyw7-6cfz1n2cew.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\uzt8vwiktp-6pdc2jztkx.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\qtzu97oemk-493y06b0oq.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\nsk8twd74x-iovd86k7lj.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cu6jfpm6im-vr1egmr9el.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\mzb516juju-kbrnm935zg.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\lcov3zhc6t-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\dsmh73jy4m-y7v9cxd14o.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\m6i2ax4p5k-notf2xhcfb.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\puqdwx62f4-h1s4sie4z3.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\phmnnga5oc-63fj8s7r0e.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cojah8boq7-0j3bgjxly4.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\tn02adwr0u-47otxtyo56.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ko13avdl1e-4v8eqarkd7.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\w16qqtgkp5-356vix0kms.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\yeomv3qx4w-83jwlth58m.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\wynsulxzwg-mrlpezrjn3.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\2mui3b1o81-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\f7qyv2xz2g-ag7o75518u.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\gve076c17f-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\seoy76g4by-0i3buxo5is.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\10bh56ecod-o1o13a6vjx.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6t160vo569-ttgo8qnofa.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\236xdskn9z-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\vu6mc2tp8x-muycvpuwrr.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ac3qjyv8vi-87fc7y1x7t.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\7i3et0umlh-mlv21k5csn.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\fb7k020aup-713bo9t9kh.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ax0wzf1dur-713bo9t9kh.gz
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.dll
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\refint\MuniConnect.dll
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.pdb
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\ref\MuniConnect.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.runtime.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.endpoints.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.sourcelink.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\bundle\MuniConnect.styles.css
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\projectbundle\MuniConnect.bundle.scp.css
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6dm84sujk4-b9sayid5wm.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\nerqpdnz7c-61n19gt1b8.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\83vbcn3imr-xtxxf3hu2r.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cntve3xxfm-bqjiyaj88i.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\iipes8skur-c2jlpeoesf.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\75owwzqns0-erw9l3u2r3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\1y3b64nzbt-aexeepp0ev.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\wg8n8u0ad0-d7shbmvgxk.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ailn01vh5y-ausgxo2sd3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\pfr4cp3sx5-k8d9w2qqmf.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6fdtjpllkd-cosvhxvwiu.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\oie8lsv7gn-ub07r2b239.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\b0rsbv7sdg-fvhpjtyr6v.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\xmt1gmosry-b7pk76d08c.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6xtnt0uf0t-fsbi9cje9m.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\lzxtv8rxc3-rzd6atqjts.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\kupedo1bl6-ee0r1s7dh0.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\eohn35k4gu-dxx9fxp4il.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\d30anbca9s-jd9uben2k1.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ipza59pc0h-khv3u5hwcm.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\7oz6z9vvek-r4e9w2rdcm.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\d2ostd9jjx-lcd1t2u6c8.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\8g4mjt7kg2-c2oey78nd0.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ig9bou2w8l-tdbxkamptv.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\rlkeso5avy-j5mq2jizvt.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ypw4yp5wpj-06098lyss8.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\b7pmcxr984-nvvlpmu67g.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\9galfo8onq-s35ty4nyc5.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\rly9hmeqjn-pj5nd1wqec.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\gdbfw65ume-46ein0sx1k.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\icph5jfxx3-v0zj4ognzu.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\jsajwp8t68-37tfw0ft22.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\fyq9sl1lt9-hrwsygsryq.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\geottfupgn-pk9g2wxc8p.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\28sqpv12mo-ft3s53vfgj.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\48ueemeyw7-6cfz1n2cew.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\uzt8vwiktp-6pdc2jztkx.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\qtzu97oemk-493y06b0oq.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\nsk8twd74x-iovd86k7lj.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cu6jfpm6im-vr1egmr9el.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\mzb516juju-kbrnm935zg.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\lcov3zhc6t-jj8uyg4cgr.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\dsmh73jy4m-y7v9cxd14o.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\m6i2ax4p5k-notf2xhcfb.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\puqdwx62f4-h1s4sie4z3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\phmnnga5oc-63fj8s7r0e.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cojah8boq7-0j3bgjxly4.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\tn02adwr0u-47otxtyo56.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ko13avdl1e-4v8eqarkd7.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\w16qqtgkp5-356vix0kms.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\yeomv3qx4w-83jwlth58m.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\wynsulxzwg-mrlpezrjn3.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\2mui3b1o81-lzl9nlhx6b.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\f7qyv2xz2g-ag7o75518u.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\gve076c17f-x0q3zqp4vz.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\seoy76g4by-0i3buxo5is.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\10bh56ecod-o1o13a6vjx.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6t160vo569-ttgo8qnofa.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\236xdskn9z-2z0ns9nrw6.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\vu6mc2tp8x-muycvpuwrr.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ac3qjyv8vi-87fc7y1x7t.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\7i3et0umlh-mlv21k5csn.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\fb7k020aup-713bo9t9kh.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ax0wzf1dur-713bo9t9kh.gz
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\refint\MuniConnect.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\ref\MuniConnect.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\97ipj4rxq6-n5gvf4ps9i.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\appsettings.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.runtime.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.endpoints.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.exe
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.deps.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.runtimeconfig.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.dll
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\bin\Debug\net9.0\MuniConnect.pdb
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfoInputs.cache
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfo.cs
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cache
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cs
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.sourcelink.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\scopedcss\bundle\MuniConnect.styles.css
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\scopedcss\projectbundle\MuniConnect.bundle.scp.css
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\nerqpdnz7c-61n19gt1b8.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\97ipj4rxq6-n5gvf4ps9i.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\83vbcn3imr-xtxxf3hu2r.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\cntve3xxfm-t1cqhe9u97.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\iipes8skur-c2jlpeoesf.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\75owwzqns0-sejl45xvog.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\1y3b64nzbt-aexeepp0ev.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\wg8n8u0ad0-xvp3kq03qx.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ailn01vh5y-ausgxo2sd3.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\pfr4cp3sx5-22vffe00uq.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\6fdtjpllkd-cosvhxvwiu.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\oie8lsv7gn-qesaa3a1fm.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\b0rsbv7sdg-fvhpjtyr6v.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\xmt1gmosry-tmc1g35s3z.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\6xtnt0uf0t-fsbi9cje9m.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\lzxtv8rxc3-rxsg74s51o.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\kupedo1bl6-ee0r1s7dh0.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\eohn35k4gu-q9ht133ko3.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\d30anbca9s-jd9uben2k1.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ipza59pc0h-gye83jo8yx.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\7oz6z9vvek-r4e9w2rdcm.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\d2ostd9jjx-wl58j5mj3v.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\8g4mjt7kg2-c2oey78nd0.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ig9bou2w8l-d4r6k3f320.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\rlkeso5avy-j5mq2jizvt.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ypw4yp5wpj-keugtjm085.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\b7pmcxr984-nvvlpmu67g.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\9galfo8onq-zub09dkrxp.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\rly9hmeqjn-pj5nd1wqec.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\gdbfw65ume-43atpzeawx.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\icph5jfxx3-v0zj4ognzu.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\jsajwp8t68-ynyaa8k90p.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\fyq9sl1lt9-hrwsygsryq.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\geottfupgn-c63t5i9ira.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\28sqpv12mo-ft3s53vfgj.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\48ueemeyw7-4094rpi4f9.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\uzt8vwiktp-6pdc2jztkx.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\qtzu97oemk-hd3gran6i8.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\nsk8twd74x-iovd86k7lj.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\cu6jfpm6im-ltid2c489k.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\mzb516juju-kbrnm935zg.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\lcov3zhc6t-8vyfqsqgz1.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\dsmh73jy4m-y7v9cxd14o.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\m6i2ax4p5k-u9q1upor1n.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\puqdwx62f4-h1s4sie4z3.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\phmnnga5oc-4d85u1mtcx.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\cojah8boq7-0j3bgjxly4.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\tn02adwr0u-03hjc8e09r.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ko13avdl1e-48y08845bh.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\w16qqtgkp5-356vix0kms.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\yeomv3qx4w-83jwlth58m.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\wynsulxzwg-mrlpezrjn3.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\2mui3b1o81-worgj0nhwm.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\f7qyv2xz2g-gk0pw8i4co.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\gve076c17f-x0q3zqp4vz.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\seoy76g4by-d6nrnj6jjx.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\10bh56ecod-m9qm4tazc0.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\6t160vo569-ttgo8qnofa.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\236xdskn9z-jjsuc0puko.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\vu6mc2tp8x-9vr69e8ynj.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ac3qjyv8vi-87fc7y1x7t.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\7i3et0umlh-mlv21k5csn.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\fb7k020aup-713bo9t9kh.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\ax0wzf1dur-713bo9t9kh.gz
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.dll
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\refint\MuniConnect.dll
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.pdb
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\MuniConnect.genruntimeconfig.cache
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\ref\MuniConnect.dll
+C:\Users\Keenan\source\repos\vcnmb-prog7312-2025-poe\MuniConnect\obj\Debug\net9.0\compressed\6dm84sujk4-g4ghlnfvcz.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\appsettings.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.runtime.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.staticwebassets.endpoints.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.exe
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.deps.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.runtimeconfig.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.dll
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\bin\Debug\net9.0\MuniConnect.pdb
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfoInputs.cache
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.AssemblyInfo.cs
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cache
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.RazorAssemblyInfo.cs
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.sourcelink.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\bundle\MuniConnect.styles.css
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\scopedcss\projectbundle\MuniConnect.bundle.scp.css
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6dm84sujk4-g4ghlnfvcz.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\nerqpdnz7c-61n19gt1b8.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\97ipj4rxq6-n5gvf4ps9i.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\83vbcn3imr-xtxxf3hu2r.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cntve3xxfm-t1cqhe9u97.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\iipes8skur-c2jlpeoesf.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\75owwzqns0-sejl45xvog.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\1y3b64nzbt-aexeepp0ev.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\wg8n8u0ad0-xvp3kq03qx.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ailn01vh5y-ausgxo2sd3.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\pfr4cp3sx5-22vffe00uq.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6fdtjpllkd-cosvhxvwiu.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\oie8lsv7gn-qesaa3a1fm.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\b0rsbv7sdg-fvhpjtyr6v.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\xmt1gmosry-tmc1g35s3z.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6xtnt0uf0t-fsbi9cje9m.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\lzxtv8rxc3-rxsg74s51o.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\kupedo1bl6-ee0r1s7dh0.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\eohn35k4gu-q9ht133ko3.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\d30anbca9s-jd9uben2k1.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ipza59pc0h-gye83jo8yx.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\7oz6z9vvek-r4e9w2rdcm.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\d2ostd9jjx-wl58j5mj3v.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\8g4mjt7kg2-c2oey78nd0.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ig9bou2w8l-d4r6k3f320.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\rlkeso5avy-j5mq2jizvt.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ypw4yp5wpj-keugtjm085.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\b7pmcxr984-nvvlpmu67g.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\9galfo8onq-zub09dkrxp.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\rly9hmeqjn-pj5nd1wqec.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\gdbfw65ume-43atpzeawx.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\icph5jfxx3-v0zj4ognzu.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\jsajwp8t68-ynyaa8k90p.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\fyq9sl1lt9-hrwsygsryq.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\geottfupgn-c63t5i9ira.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\28sqpv12mo-ft3s53vfgj.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\48ueemeyw7-4094rpi4f9.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\uzt8vwiktp-6pdc2jztkx.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\qtzu97oemk-hd3gran6i8.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\nsk8twd74x-iovd86k7lj.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cu6jfpm6im-ltid2c489k.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\mzb516juju-kbrnm935zg.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\lcov3zhc6t-8vyfqsqgz1.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\dsmh73jy4m-y7v9cxd14o.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\m6i2ax4p5k-u9q1upor1n.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\puqdwx62f4-h1s4sie4z3.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\phmnnga5oc-4d85u1mtcx.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\cojah8boq7-0j3bgjxly4.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\tn02adwr0u-03hjc8e09r.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ko13avdl1e-48y08845bh.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\w16qqtgkp5-356vix0kms.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\yeomv3qx4w-83jwlth58m.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\wynsulxzwg-mrlpezrjn3.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\2mui3b1o81-worgj0nhwm.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\f7qyv2xz2g-gk0pw8i4co.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\gve076c17f-x0q3zqp4vz.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\seoy76g4by-d6nrnj6jjx.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\10bh56ecod-m9qm4tazc0.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\6t160vo569-ttgo8qnofa.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\236xdskn9z-jjsuc0puko.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\vu6mc2tp8x-9vr69e8ynj.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ac3qjyv8vi-87fc7y1x7t.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\7i3et0umlh-mlv21k5csn.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\fb7k020aup-713bo9t9kh.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\ax0wzf1dur-713bo9t9kh.gz
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.dll
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\refint\MuniConnect.dll
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.pdb
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\MuniConnect.genruntimeconfig.cache
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\ref\MuniConnect.dll
+C:\Users\Keenan\OneDrive\Documents\GitHub\vcnmb-prog7312-2025-poe-keenan-davis\MuniConnect\obj\Debug\net9.0\compressed\qfvbtfkhd2-eaubkw269k.gz
